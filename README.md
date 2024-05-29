@@ -12,7 +12,7 @@ I am passionate about web development and have a strong background in various we
   <tr>
     <td align="center" width="96">
       <a href="https://codewithwaqas.com/">
-        <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
+        <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5"/>
       </a>
       <br>HTML & CSS
     </td>
