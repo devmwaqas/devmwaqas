@@ -8,13 +8,102 @@ I am passionate about web development and have a strong background in various we
 
 ## Skills
 
-- **HTML & CSS**: Crafting semantic, responsive, and visually appealing web pages.
-- **Bootstrap**: Utilizing the framework to create responsive and mobile-first websites.
-- **Core PHP**: Building custom web applications with a focus on performance and security.
-- **CodeIgniter**: Developing efficient and scalable applications using this lightweight PHP framework.
-- **Laravel**: Leveraging this robust PHP framework for modern web applications with elegant syntax.
-- **MySQL**: Designing and managing databases to ensure data integrity and optimized performance.
-- **jQuery**: Enhancing web applications with dynamic and interactive features.
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <a href="https://codewithwaqas.com/">
+        <img width="48" height="48" src="https://img.icons8.com/officel/48/php-logo.png" alt="php-logo"/>
+      </a>
+      <br>PHP
+    </td>
+    <td align="center" width="96">
+      <a href="https://codewithwaqas.com/">
+        <img width="48" height="48" src="https://img.icons8.com/cute-clipart/48/codeigniter.png" alt="codeigniter"/>
+      </a>
+      <br>Codeigniter
+    </td>
+    <td align="center" width="96">
+      <a href="https://codewithwaqas.com/">
+        <img width="48" height="48" src="https://img.icons8.com/nolan/48/laravel.png" alt="laravel"/>
+      </a>
+      <br>Laravel
+    </td>
+    <td align="center" width="96">
+      <a href="https://codewithwaqas.com/">
+        <img width="48" height="48" src="https://img.icons8.com/fluency/48/my-sql.png" alt="my-sql"/>
+      </a>
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <a href="https://codewithwaqas.com/">
+        <img width="48" height="48" src="https://img.icons8.com/arcade/48/api-settings.png" alt="api-settings" />
+      </a>
+      <br>REST API
+    </td>
+    <td align="center" width="96">
+      <a href="https://codewithwaqas.com/">
+        <img width="48" height="48" src="https://img.icons8.com/color/48/stripe.png" alt="stripe"/>
+      </a>
+      <br>Stripe
+    </td>
+    <td align="center" width="96">
+      <a href="https://codewithwaqas.com/">
+        <img width="48" height="48" src="https://img.icons8.com/color/48/paypal.png" alt="paypal"/>
+      </a>
+      <br>Paypal
+    </td>
+    <td align="center" width="96">
+      <a href="https://codewithwaqas.com/">
+        <img width="48" height="48" src="https://img.icons8.com/plasticine/48/google-maps-new.png" alt="google-maps-new"/>
+      </a>
+      <br>Maps
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="https://codewithwaqas.com/">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="JavaScript" />
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <a href="https://codewithwaqas.com/">
+        <img width="48" height="48" src="https://img.icons8.com/ios-filled/48/jquery.png" alt="jquery"/>
+      </a>
+      <br>jQuery
+    </td>
+    <td align="center" width="96">
+      <a href="https://codewithwaqas.com/">
+        <img width="48" height="48" src="https://img.icons8.com/ios-filled/48/wordpress--v1.png" alt="WordPress"/>
+      </a>
+      <br>WordPress
+    </td>
+    <td align="center" width="96">
+      <a href="https://codewithwaqas.com/">
+        <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="48" height="48" alt="React JS" />
+      </a>
+      <br>React JS
+    </td>
+    <td align="center" width="96">
+      <a href="https://codewithwaqas.com/">
+        <img src="https://media.zeemly.com/zeemly/product/material-ui.png" width="48" height="48" alt="Material UI" />
+      </a>
+      <br>MUI
+    </td>
+    <td align="center" width="96">
+      <a href="https://codewithwaqas.com/">
+        <img width="64" height="64" src="https://img.icons8.com/nolan/64/tailwind_css.png" alt="tailwind_css"/>
+      </a>
+      <br>Tailwind
+    </td>
+    <td align="center" width="96">
+      <a href="https://codewithwaqas.com/">
+        <img width="48" height="48" src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="redux"/>
+      </a>
+      <br>Redux
+    </td>
+  </tr>
+</table>
 
 ## Services
 
