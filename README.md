@@ -169,26 +169,25 @@ I am passionate about web development and have a strong background in various we
 ## Experience
 
 Over the past 6+ years, I have worked on various projects, ranging from small business websites to large-scale web applications. My experience includes:
-
 <table>
     <tr>
       <td>
-        - **Front-End Development**: Implementing user-friendly interfaces with HTML, CSS, and JavaScript frameworks.
+        <b>- Front-End Development:</b> Implementing user-friendly interfaces with HTML, CSS, and JavaScript frameworks.
       </td>
     </tr>
     <tr>
       <td>
-        - **Back-End Development**: Creating server-side logic and managing databases using PHP and MySQL.
+        <b>- Back-End Development:</b> Creating server-side logic and managing databases using PHP and MySQL.
       </td>
     </tr>
     <tr>
       <td>
-        - **Full-Stack Development**: Integrating front-end and back-end technologies to deliver complete web solutions.
+        <b>- Full-Stack Development:</b> Integrating front-end and back-end technologies to deliver complete web solutions.
       </td>
     </tr>
     <tr>
       <td>
-        - **Maintenance and Optimization**: Ensuring the long-term performance and scalability of web applications.
+        <b>- Maintenance and Optimization:</b> Ensuring the long-term performance and scalability of web applications.
       </td>
     </tr>
   </table>
