@@ -1,4 +1,6 @@
-Hi, I'm Muhammad Waqas Amjad, I'm a seasoned web developer with over 6 years of professional experience in building and maintaining dynamic websites and applications. My expertise spans a wide range of technologies and frameworks, ensuring high-quality, efficient, and scalable web solutions.
+# Hi, I'm Muhammad Waqas Amjad, 
+
+I'm a seasoned web developer with over 6 years of professional experience in building and maintaining dynamic websites and applications. My expertise spans a wide range of technologies and frameworks, ensuring high-quality, efficient, and scalable web solutions.
 
 ## About Me
 
