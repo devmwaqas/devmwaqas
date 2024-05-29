@@ -82,10 +82,28 @@ Over the past 6+ years, I have worked on various projects, ranging from small bu
 
 ## Tools & Technologies:
 
- 🖥️ I use tools like PhpStorm and Visual Studio Code to write code faster and more efficiently.
- 🔄 I keep track of changes and work with others using tools like Git and SVN.
- 🌐 I'm familiar with cPanel and FTP for managing website hosting and file transfers.
- 📊 I have experience using project management tools like Jira, Notion, and Trello for efficient team collaboration and task management.
+   <table>
+    <tr>
+      <td>
+        🖥️ I use tools like PhpStorm and Visual Studio Code to write code faster and more efficiently.
+      </td>
+    </tr>
+    <tr>
+      <td>
+        🔄 I keep track of changes and work with others using tools like Git and SVN.
+      </td>
+    </tr>
+    <tr>
+      <td>
+        🌐 I'm familiar with cPanel and FTP for managing website hosting and file transfers.
+      </td>
+    </tr>
+    <tr>
+      <td>
+        📊 I have experience using project management tools like Jira, Notion, and Trello for efficient team collaboration and task management.
+      </td>
+    </tr>
+  </table>
 
 ## Projects
 
