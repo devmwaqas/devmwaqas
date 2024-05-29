@@ -8,8 +8,14 @@ I am passionate about web development and have a strong background in various we
 
 ## Skills
 
-<table align="center">
+<table>
   <tr>
+    <td align="center" width="96">
+      <a href="https://codewithwaqas.com/">
+        <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
+      </a>
+      <br>HTML & CSS
+    </td>
     <td align="center" width="96">
       <a href="https://codewithwaqas.com/">
         <img width="48" height="48" src="https://img.icons8.com/officel/48/php-logo.png" alt="php-logo"/>
@@ -52,14 +58,17 @@ I am passionate about web development and have a strong background in various we
       </a>
       <br>Paypal
     </td>
+    
+  </tr>
+  <tr>
+
     <td align="center" width="96">
       <a href="https://codewithwaqas.com/">
         <img width="48" height="48" src="https://img.icons8.com/plasticine/48/google-maps-new.png" alt="google-maps-new"/>
       </a>
       <br>Maps
     </td>
-  </tr>
-  <tr>
+    
     <td align="center" width="96">
       <a href="https://codewithwaqas.com/">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="JavaScript" />
