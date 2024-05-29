@@ -17,23 +17,14 @@ I am passionate about web development and have a strong background in various we
 ## Services
 
  ✔️ Custom design and development
-
  ✔️ Debugging
-
  ✔️ Modification in frontend or backend
-
  ✔️ RESTful API development and integration
-
  ✔️ Third-party integration
-
  ✔️ MySQL optimization
-
  ✔️ WordPress plugin development
-
  ✔️ Landing page development
-
  ✔️ Figma to HTML
-
  ✔️ Backend (Admin) panel development
 
 ## Experience
